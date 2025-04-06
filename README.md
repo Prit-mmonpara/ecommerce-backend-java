@@ -89,7 +89,7 @@ cd ecommerce-backend-java
 # Create and configure your application.properties.
 
 # Run the project using Maven:
-./mvnw spring-boot:run
+mvn spring-boot:run
 
 # Access the Swagger UI:
 http://localhost:8080/swagger-ui.html
