@@ -21,7 +21,7 @@ A Java-based backend system for an e-commerce application. Built using **Spring 
 
 ## 🛠️ Tech Stack
 
-- Java 17+  
+- Java 21+
 - Spring Boot  
 - Spring Security  
 - Hibernate + JPA  
